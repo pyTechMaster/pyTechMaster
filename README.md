@@ -24,17 +24,7 @@
 - Git & GitHub 🔧
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyTechMaster&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true&cache_seconds=86400" alt="pyTechMaster's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=pyTechMaster&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="pyTechMaster's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pyTechMaster&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sakshi Mukesh Pardeshi's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pyTechMaster&theme=shades-of-purple&radius=10" alt="pyTechMaster's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
